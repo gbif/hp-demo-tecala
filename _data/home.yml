@@ -1,0 +1,80 @@
+# Feature cards
+cardExample:
+  features:
+    - preTitle: Fungi  # optional
+      title: Pithya vulgaris Fuckel # required
+      description: |      # required
+        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+      # img required
+      background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fsvampe.databasen.org%2Fuploads%2F2020-10073843_rk9urr9kU.JPG
+      imageLicense: |
+        *Pithya vulgaris* Fuckel. Photo by Ken A. Alminde. [gbif.org](https://www.gbif.org/occurrence/2542589342)
+      url: /about
+      categories: [cat, dog]
+    - preTitle: eDNA  # optional
+      title: Abundantly light green     # required
+      description: |      # required
+        Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+      background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fcryptogam-phh.hcmus.edu.vn%2Fimages%2Flichenized%2FPHH0011125.png
+      imageLicense: |
+        *Cladonia* P.Browne. Photo by N.K.T. Tram via [gbif.org](https://www.gbif.org/occurrence/2635916364)
+    - preTitle: Popular   # optional
+      title: Partners     # required
+      description: |      # required
+        Fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+      # img required
+      background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fsvampe.databasen.org%2Fuploads%2F2020-10074055_ryhauBo1U.JPG
+      imageLicense: |
+        *Ramalina fastigiata* (Pers.) Ach.. Photo by Anni & Peter Nielsen via [gbif.org](https://www.gbif.org/occurrence/2542589393)
+    - preTitle: Publishing  # optional
+      title: Abundantly light green     # required
+      description: |      # required
+        Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+      # img required
+      background: http://api.gbif.org/v1/image/unsafe/fit-in/http%3A%2F%2Fmczbase.mcz.harvard.edu%2Fspecimen_images%2Fentomology%2Fpaleo%2Flarge%2FPALE-33621_syn6_Formicidae.jpg
+    - preTitle: Progress     # optional
+      title: Annual report # required
+      description: |          # required
+        Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+      background: http://api.gbif.org/v1/image/unsafe/fit-in/http%3A%2F%2Fmczbase.mcz.harvard.edu%2Fspecimen_images%2Fentomology%2Fpaleo%2Flarge%2FPALE-33621_syn6_Formicidae.jpg
+      imageLicense: Some *text* goes [something](https://www.gbif.org/)
+      url: /about
+      cta:
+      - text: Download
+        href: http://example.com
+        isPrimary: true
+      - text: Learn more
+        href: /about
+
+
+productExample:
+  align: right
+  preTitle: Publishing  # optional
+  title: Integrated publishing toolkit     # required
+  description: |      # required
+    Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is.
+  # img required
+  background: /assets/images/product-right.png
+splitExample:
+  reverse: true
+  preTitle: Data mobilization  # optional
+  title: Guide to publishing sequence-derived data opens for peer-review     # required
+  description: |      # required
+    Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is.
+  # img required
+  background: http://api.gbif.org/v1/image/unsafe/fit-in/http%3A%2F%2Fmczbase.mcz.harvard.edu%2Fspecimen_images%2Fentomology%2Fpaleo%2Flarge%2FPALE-33621_syn6_Formicidae.jpg
+  imageLicense: Some *text* goes [something](https://www.gbif.org/)
+  url: /about
+bannerExample2:
+  preTitle: Data mobilization  # optional
+  title: Guide to publishing sequence-derived data opens for peer-review     # required
+  description: |      # required
+    Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. 
+    
+    Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is.
+  cta:                # optional
+  - text: Learn more
+    href: http://example.com
+  - text: Download
+    href: http://example.com
+  center: true
