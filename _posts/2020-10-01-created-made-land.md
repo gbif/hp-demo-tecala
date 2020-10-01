@@ -1,8 +1,10 @@
 ---
-title:  My second post
+title:  Created man land
 date:   2020-06-10 21:37:12 +0200
-categories: jekyll biodiversity
-background: http://via.placeholder.com/1200x500?text=Tecala
+categories: climate biodiversity
+background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fsvampe.databasen.org%2Fuploads%2F2020-10074055_ryhauBo1U.JPG
+imageLicense: |
+  *Ramalina fastigiata* (Pers.) Ach.. Photo by Anni & Peter Nielsen via [gbif.org](https://www.gbif.org/occurrence/2542589393)
 description: Lorem markdownum spatium
 ---
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
