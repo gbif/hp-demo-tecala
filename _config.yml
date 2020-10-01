@@ -42,12 +42,12 @@ algae:
   archive_permalink: /news/             # Permalink of page using archive.html layout, required when using post categories
   latestPostLimit: 3                    # Show x number of latest posts when showing latest posts. Defaults to 3
   navbar:
-    brandBackground: "#4da043"
+    brandBackground: "#78825f"
   style:
     square: false
     colors:
-      primary: "#4da043"
-      links: "#3c9232"
+      primary: "#78825f"
+      links: "#f1bc24"
     coloredHeadlineLinks: true
 
 # Exclude from processing.
@@ -81,4 +81,4 @@ defaults:
       path: "_posts" # an empty string here means all files in the project
     values:
       layout: "post"
-      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+      permalink: "/news/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts

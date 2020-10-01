@@ -10,15 +10,6 @@ cardExample:
       imageLicense: |
         *Pithya vulgaris* Fuckel. Photo by Ken A. Alminde. [gbif.org](https://www.gbif.org/occurrence/2542589342)
       href: /about
-      categories: [cat, dog]
-    - preTitle: eDNA  # optional
-      title: Abundantly light green     # required
-      description: |      # required
-        Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
-      background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fcryptogam-phh.hcmus.edu.vn%2Fimages%2Flichenized%2FPHH0011125.png
-      imageLicense: |
-        *Cladonia* P.Browne. Photo by N.K.T. Tram via [gbif.org](https://www.gbif.org/occurrence/2635916364)
-      href: /about
     - preTitle: Blog post   # optional
       title: Created made land     # required
       description: |      # required
@@ -27,7 +18,16 @@ cardExample:
       background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fsvampe.databasen.org%2Fuploads%2F2020-10074055_ryhauBo1U.JPG
       imageLicense: |
         *Ramalina fastigiata* (Pers.) Ach.. Photo by Anni & Peter Nielsen via [gbif.org](https://www.gbif.org/occurrence/2542589393)
-      href: /climate/biodiversity/2020/06/10/created-made-land
+      href: /news/2020/created-made-land/
+      categories: [climate, biodiversity]
+    - preTitle: eDNA  # optional
+      title: Abundantly light green     # required
+      description: |      # required
+        Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+      background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fcryptogam-phh.hcmus.edu.vn%2Fimages%2Flichenized%2FPHH0011125.png
+      imageLicense: |
+        *Cladonia* P.Browne. Photo by N.K.T. Tram via [gbif.org](https://www.gbif.org/occurrence/2635916364)
+      href: /about
 
 productExample:
   align: right
