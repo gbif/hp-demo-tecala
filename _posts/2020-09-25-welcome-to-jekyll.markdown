@@ -2,7 +2,7 @@
 title:  "Welcome to Jekyll!"
 date:   2020-09-25 21:37:12 +0200
 categories: jekyll
-background: http://api.gbif.org/v1/image/unsafe/fit-in/http%3A%2F%2Fmczbase.mcz.harvard.edu%2Fspecimen_images%2Fentomology%2Fpaleo%2Flarge%2FPALE-33621_syn6_Formicidae.jpg
+background: http://via.placeholder.com/1200x500?text=Tecala
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

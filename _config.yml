@@ -21,7 +21,7 @@
 title: Tecala
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Biodiversity of tecala
+  Biodiversity of Tecala
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -33,21 +33,21 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-remote_theme: gbif/ssg-theme-algae@cb33c1ba601cb33247ed9bd131e0af41863be913
+remote_theme: gbif/ssg-theme-algae
 
 algae:
-  logo: /assets/images/livingTecala_transparent.png     # Logo in navbar, will be displayed with 28px height
+  xlogo: /assets/images/living tecala4.png     # Logo in navbar, will be displayed with 28px height
   logoAndTitle: false
   hideHelper: false
   archive_permalink: /news/             # Permalink of page using archive.html layout, required when using post categories
   latestPostLimit: 3                    # Show x number of latest posts when showing latest posts. Defaults to 3
   navbar:
-    brandBackground: "#111"
+    brandBackground: "#4da043"
   style:
     square: false
     colors:
-      primary: "#ec6344"
-      links: "#ec6344"
+      primary: "#4da043"
+      links: "#3c9232"
     coloredHeadlineLinks: true
 
 # Exclude from processing.

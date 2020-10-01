@@ -2,7 +2,7 @@
 title:  My second post
 date:   2020-06-10 21:37:12 +0200
 categories: jekyll biodiversity
-background: http://api.gbif.org/v1/image/unsafe/fit-in/http%3A%2F%2Fmczbase.mcz.harvard.edu%2Fspecimen_images%2Fentomology%2Fpaleo%2Flarge%2FPALE-33621_syn6_Formicidae.jpg
+background: http://via.placeholder.com/1200x500?text=Tecala
 description: Lorem markdownum spatium
 ---
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
