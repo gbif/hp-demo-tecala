@@ -42,11 +42,11 @@ algae:
   archive_permalink: /news/             # Permalink of page using archive.html layout, required when using post categories
   latestPostLimit: 3                    # Show x number of latest posts when showing latest posts. Defaults to 3
   navbar:
-    brandBackground: "#78825f"
+    brandBackground: "#e29f00"
   style:
     square: false
     colors:
-      primary: "#78825f"
+      primary: "#e29f00"
       links: "#f1bc24"
     coloredHeadlineLinks: true
 

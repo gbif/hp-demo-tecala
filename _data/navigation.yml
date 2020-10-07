@@ -7,9 +7,9 @@
 - text: Activities
   menu: # Dropdown menu (one level deep only)
   - text: Publishing
-    href: /about
+    href: /publishing
   - text: Community building
-    href: /about/
+    href: /community
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Tools" # Title for block of menu items
   - text: Report findings
