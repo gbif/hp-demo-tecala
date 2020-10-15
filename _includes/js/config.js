@@ -3,5 +3,12 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 }});
 
 var siteConfig = {
-  rootPredicate: { type: 'equals', key: 'taxonKey', value: 5 }
+  rootPredicate: {
+    "type": "range",
+    "key": "decimalLatitude",
+    "value": {
+      "gte": -23.43659,
+      "lte": 23.43659
+    }
+  }
 };
