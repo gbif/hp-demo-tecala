@@ -2,7 +2,7 @@
 layout: home
 klass: home
 title: Biodiversity of Tecala
-description: The data on this site is scoped to show Lepidoptera specimens
+description: The data on this site is scoped to show Lepidoptera
 background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fsvampe.databasen.org%2Fuploads%2F2020-10073758_r1KPwQqkI.JPG
 imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
