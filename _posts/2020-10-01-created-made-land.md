@@ -1,7 +1,7 @@
 ---
 title:  Created man land
 date:   2020-06-10 21:37:12 +0200
-categories: climate biodiversity
+categories: Climate Biodiversity
 background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fsvampe.databasen.org%2Fuploads%2F2020-10074055_ryhauBo1U.JPG
 imageLicense: |
   *Ramalina fastigiata* (Pers.) Ach.. Photo by Anni & Peter Nielsen via [gbif.org](https://www.gbif.org/occurrence/2542589393)

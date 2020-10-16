@@ -3,9 +3,9 @@ layout: home
 klass: home
 title: Biodiversity of Tecala
 description: The data on this site is scoped to show Lepidoptera
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fsvampe.databasen.org%2Fuploads%2F2020-10073758_r1KPwQqkI.JPG
+background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstorage.biodiversity.online%2FGBIF-BIFA050%2FZRC_ENT00026370-Dorsal.jpg
 imageLicense: |
-  *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
+  *Danaus chrysippus* subsp. *chrysippus*. Published by Lee Kong Chian Natural History Museum, National University of Singapore via [GBIF.org](https://www.gbif.org/occurrence/2847205236)
 cta:
   - text: Start exploring
     href: /data
