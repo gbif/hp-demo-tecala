@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-              sh 'docker run -e JEKYLL_UID=$(id -u) -e JEKYLL_GID=$(id -g) --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:4.0 jekyll build'
+              sh 'docker run -e JEKYLL_UID=$(id -u) -e JEKYLL_GID=$(id -g) --rm --volume="$PWD:/srv/jekyll" jekyll/jekyll:4.0 jekyll build'
             }
         }
 
