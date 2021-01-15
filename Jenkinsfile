@@ -9,6 +9,7 @@ pipeline {
               sh 'docker run -e JEKYLL_UID=$(id -u) -e JEKYLL_GID=$(id -g) --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:4.0 jekyll build'
             }
         }
+
         stage('Deploy') {
             steps {
               sh 'echo JOB_NAME=${env.JOB_NAME}'
