@@ -4,6 +4,15 @@ pipeline {
         skipStagesAfterUnstable()
     }
     stages {
+        stage('Init') {
+            environment {
+                JOB_NAME = "${env.JOB_NAME}"
+            }
+            steps {
+              sh 'echo JOB_NAME=${JOB_NAME}'
+            }
+        }
+
         stage('Build') {
             steps {
               sh 'docker run -e JEKYLL_UID=$(id -u) -e JEKYLL_GID=$(id -g) --rm --volume="$PWD:/srv/jekyll" jekyll/jekyll:4.0 jekyll build'
