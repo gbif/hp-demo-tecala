@@ -21,7 +21,7 @@ pipeline {
 
         stage('Deploy') {
             steps {
-              sh 'echo JOB_NAME=${env.JOB_NAME}'
+              sh "echo JOB_NAME=${env.JOB_NAME}"
               sh 'rsync -av _site/ jenkins-deploy@static.gbif.org:/var/www/html/hp/hp-template/'
             }
         }
