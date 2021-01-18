@@ -2,6 +2,10 @@
 [![Build Status](https://builds.gbif.org/job/hp-demo-tecala/badge/icon)](https://builds.gbif.org/job/hp-demo-tecala/lastBuild/console)
 <!-- License badge example: [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) -->
 
-# hp-demo-tecala
+# GBIF Hosted Portal: hp-demo-tecala
 
-This is the repository for **[hp-demo-tecala](https://hp-demo-tecala.gbif.org/)**, a GBIF [Hosted Portal](https://github.com/gbif/hosted-portals).
+This Jekyll website, **[hp-demo-tecala](https://hp-demo-tecala.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
+
+You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
+
+> Powered by [GBIF](https://www.gbif.org/)
