@@ -3,11 +3,5 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 }});
 
 var siteConfig = {
-  rootPredicate: {
-    "type": "in",
-    "key": "taxonKey",
-    "values": [
-      797
-    ]
-  }
+  rootPredicate: { "type": "equals", "key": "taxonKey", "value": "5"}
 };

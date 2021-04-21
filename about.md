@@ -1,27 +1,20 @@
 ---
-title: Antaeo Nereis mollibat nocebant nunc amantem longi
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-permalink: /about
 lang-ref: about
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fsvampe.databasen.org%2Fuploads%2F2020-10073843_rk9urr9kU.JPG
+title: An introduction
+description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+background: /assets/images/moss.jpg
 imageLicense: |
-  *Pithya vulgaris* Fuckel. Photo by Ken A. Alminde. [gbif.org](https://www.gbif.org/occurrence/2542589342)
-parallax: true
+  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh
-toc: false
-mobileToc: false
-layout: compose
-navbar:
-  floating: true
-  color: "#00000088"
-  hasWhiteText: true
-structure:
-  - type: floating-hero
-  - type: markdown
+# layout: documentation
+# sideNavigation: about.about
+# composition: # you can extend the documentation layout with a custom composition
+#  - type: postHeader
+#  - type: pageMarkdown
+toc: true
 ---
 
-## Procris quippe mentior urbes ubi
-
+## What is this
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
 flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
 pontum ut** avus quamquam de trabes vestemque cruorem tremor.
@@ -32,7 +25,13 @@ profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
 neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
 tollebat altius](http://virgineusque.net/est.html).
 
-## Quam ex te videt
+## Where does the data come from
+
+Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
+lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
+dum: fateor profugus renovatus exhalantem.
+
+## How to edit
 
 Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
 cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
@@ -53,26 +52,26 @@ ubi**.
         safeCifsIde = odbc_modem;
     }
 
-### Turbatque promittat memorque
+### Claim your collection
 
 Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
 lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
 dum: fateor profugus renovatus exhalantem.
 
---------
+### Suggest a change
 
-### In frustra albus
+Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
+lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
+dum: fateor profugus renovatus exhalantem.
 
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
+### Register data
 
-## Est mea videndo
+Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
+lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
+dum: fateor profugus renovatus exhalantem.
 
-Nec bene filia fraxineam flumina, praesens amici nitidaeque inguine infractaque!
-Non quae illuc! E alto cum quod: fessi fatum patulis ore actaque quaque, ore.
-Honor praemia veniunt violavit tu
-[aequore](http://pete-munere.com/caeneus-dare.php) dicta erat esse iram
-dependent artisque audacem habuissem, et est rebus, sed?
+## FAQ
 
-Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
-tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.
+Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
+lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
+dum: fateor profugus renovatus exhalantem.
