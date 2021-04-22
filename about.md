@@ -2,9 +2,8 @@
 lang-ref: about
 title: An introduction
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/moss.jpg
-imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+background:  "{{ site.data.images.garcinia.src }}"
+imageLicense: "{{ site.data.images.garcinia.caption }}"
 height: 70vh
 # layout: documentation
 # sideNavigation: about.about
