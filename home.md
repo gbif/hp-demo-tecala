@@ -13,8 +13,8 @@ description: |
 
   {: .gettingStarted}
   Not sure how to get started? <a href="/about">Watch our Getting started video</a>
-background:  "{{ site.data.images.acalypha_gillespieae.src }}"
-imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
+background:  "{{ site.data.images.catocala_ilia_cramer.src }}"
+imageLicense: "{{ site.data.images.catocala_ilia_cramer.caption }}"
 permalink: /
 ---
 
