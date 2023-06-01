@@ -1,10 +1,10 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: Institutions
-  href: /institution
+  href: /institution/search
 - text: Collections
-  href: /collection
+  href: /collection/search
 - text: Specimens
-  href: /specimen
+  href: /specimen/search
 - text: About
   href: /about
