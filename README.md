@@ -4,7 +4,7 @@
 
 # GBIF Hosted Portal: hp-demo-tecala
 
-This Jekyll website, **[hp-demo-tecala](https://hp-demo-tecala.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
+This Jekyll website, **[hp-demo-tecala](https://demo-tecala.hp.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
 
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 
